@@ -75,3 +75,14 @@ A spherical projectile impacts a bed of granular material.
 
 ### Initial Data Set
 
+An initial data set for the 500,400 spheres is located [here](http://sbel.wisc.edu/documents/ball_drop/SpherePos_500K.dat). 
+
+The data is stored in a csv format and organized in the following manner:
+Each line contains the information for a single sphere. 
+
+Sphere_id, position_x, position_y, position_z, rotation_x, rotation_y, rotation_z, velocity_x, velocity_y, velocity_z
+
+
+
+
+
