@@ -14,7 +14,9 @@ A spherical projectile impacts a bed of granular material.
 [Penetration depth for shallow impact cratering](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.051305)
 
 
-## Simulation Parameters
+## Parameters used in simulation
+
+### Constants
 
 | Variable           | Value                               | Units    | Description                                 |
 |--------------------|-------------------------------------|----------|---------------------------------------------|
@@ -67,11 +69,6 @@ A spherical projectile impacts a bed of granular material.
 | Max_Iterations         	| 1000                                   	|         	|                                                                                                  	|
 | Contact_Recovery_Speed 	| 0.6                                    	| [m/s]   	| This is the maximum velocity correction that can be applied by the penetration depth correction. 	|
 
-### Residual Used
-
-
-### Results
-
 
 ### Initial Data Set
 
@@ -84,5 +81,9 @@ Sphere_id, position_x, position_y, position_z, rotation_x, rotation_y, rotation_
 
 
 
+### Residual Used
+
+
+### Results
 
 
