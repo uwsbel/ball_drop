@@ -6,7 +6,9 @@ A spherical projectile impacts a bed of granular material.
 ### References
 
 [Low-Speed Impact Craters in Loose Granular Media](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.194301)
+
 [Erratum: Low-Speed Impact Craters in Loose Granular Media](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.149902)
+
 [Penetration depth for shallow impact cratering](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.051305)
 
 
