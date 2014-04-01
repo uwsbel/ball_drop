@@ -67,7 +67,7 @@ A spherical projectile impacts a bed of granular material.
 | Time_Step              	| 0.00002                                	| [s]     	| Time Step for Solver                                                                             	|
 | Simulation_Length      	| 0.2                                    	| [s]     	| Total Length                                                                                     	|
 | Solver                 	| Accelerated Projected Gradient Descent 	| [-]     	|                                                                                                  	|
-| Solver Tolerance       	| 1e-3                                   	|         	| See Residual Section                                                                             	|
+| Solver Tolerance       	| 1e-3                                   	|         	|                                                                                                  	|
 | Max_Iterations         	| 1000                                   	|         	|                                                                                                  	|
 | Contact_Recovery_Speed 	| 0.6                                    	| [m/s]   	| This is the maximum velocity correction that can be applied by the penetration depth correction. 	|
 
@@ -83,9 +83,6 @@ Sphere_id, position_x, position_y, position_z, rotation_x, rotation_y, rotation_
 
 
 
-### Residual Used
-
-
 ### Results
 
-
+[Link](http://sbel.wisc.edu/radu_tmp/)
