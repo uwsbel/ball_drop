@@ -13,6 +13,8 @@ A spherical projectile impacts a bed of granular material.
 
 [Penetration depth for shallow impact cratering](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.051305)
 
+[Scaling of impact craters in unconsolidated granular materials](http://scitation.aip.org/content/aapt/journal/ajp/81/11/10.1119/1.4817309)
+
 
 ## Parameters used in simulation
 
