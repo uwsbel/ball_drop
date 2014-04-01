@@ -3,6 +3,8 @@ Ball Drop Simulation
 
 A spherical projectile impacts a bed of granular material. 
 
+<img src="https://raw.githubusercontent.com/uwsbel/ball_drop/master/images/validation_ballDrop.png" alt="" height="300px">
+
 ### References
 
 [Low-Speed Impact Craters in Loose Granular Media](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.194301)
